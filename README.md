@@ -1,4 +1,4 @@
-# Computcao_grafica
+# Computacao_grafica
 Trabalhos de computação gráfica
 
 
