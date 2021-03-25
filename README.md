@@ -1,5 +1,6 @@
 # Computcao_grafica
 Trabalhos de computação gráfica
+
 estrela -> abrir o processing e dá "play"
 bezier_grau_3 -> abrir o processing e dá "play"
 
