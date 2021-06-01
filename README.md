@@ -23,6 +23,8 @@ dado -> abrir o terminal, colocar no diretório que estiver o código e usar o c
 
 piramide_tronco_textura -> abrir o terminal, colocar no diretório que estiver o código e usar o comando "python piramide_tronco.py"
 
+globo -> abrir o terminal, colocar no diretório que estiver o código e usar o comando "python globo.py"
+
 piramide_tronco_luz -> abrir o terminal, colocar no diretório que estiver o código e usar o comando "python piramide_tronco_luz.py"
 
 prisma_luz -> abrir o terminal, colocar no diretório que estiver o código e usar o comando "python prisma_luz.py"
