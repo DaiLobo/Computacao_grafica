@@ -2,6 +2,8 @@
 Trabalhos de computação gráfica:
 
 P1
+-----------------------------------------------------------------------------------------------------------------------------------------
+
 estrela2 -> abrir o processing e dá "play"
 
 bezier_cubica -> abrir o processing e dá "play"
