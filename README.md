@@ -20,4 +20,5 @@ P2
 -----------------------------------------------------------------------------------------------------------------------------------------
 
 dado -> abrir o terminal, colocar no diretório que estiver o código e usar o comando "python dado.py"
+
 piramide_tronco_textura -> abrir o terminal, colocar no diretório que estiver o código e usar o comando "python piramide_tronco.py"
